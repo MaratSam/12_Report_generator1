@@ -1,0 +1,32 @@
+{
+  "Operator_cert": [
+	{"Abraam Link": "L-11924"},
+	{"John Smith": "L-11238"},
+	{"Bred Pitt": "L-21238"}
+  ],
+ "GPR_text":"Some services were located with the Ground Penetrating Radar (GPR). The subsurface information obtained with a GPR should be treated as quality level C (QL-C, AC5488-2013), with no depth accuracy guaranteed. All GPR findings should be validated by manual excavation/potholing before commencing mechanical earthwork or making design or construction decisions.",
+ "Bad_GPR_conditions":"Unfortunately it was not possible to locate some of the non-conductive services like pvc pipes and empty conduits due to unfavourable conditions for the ground penetrating radar.",
+ "Pushrod_text":"Some non-conductive pipes and conduits were located with a conductive flexible push rod which was inserted into the pipes. Some of the conduits were inaccessible for the push rod and therefore, have not been located. Potholing (vacuum excavation) is required to locate these services.",
+ "No_other_services": "Other services were not requested to be located.",
+ "Conductive_text": "Conductive utilities mentioned in this report have been located with an electromagnetic utility locator. The subsurface information obtained with an electromagnetic utility locator should be treated as quality level B (QL-B, AS 5488-2013), with depth accuracy +-500 mm and the relative position accuracy of +-300 mm. Subsurface information of quality level B is only an indication of the existence of subsurface utilities and does not validate the utility subsurface location or attributes.",
+ "No_non_conductive": "It was not possible to locate non-conductive services like pvc water lines, sewer, stormwater lines and empty conduits due to unsuitable soil conditions for Ground Penetrating Radar. Potholing (vacuum excavation) is required to locate these services.",
+ "Vaiver": "Our company cannot guarantee it will be able to locate all utilities on site. The decision to proceed with cutting, coring, drilling, boring, or excavation is left entirely up to the customer.",
+ "Outdate_map_text" : "- the available aerial image is partially outdated and does not represent the current situation on site.",
+ "Indicative_map_text" : "- this map is indicative only. It does not show the precise position of the service locating area or its boundaries.",
+ "Intro1" : "The objective of this work was to locate the underground services at ",
+ "Intro2" : ", in the area shown by the client on site.",
+ "Operator_text":"\n\nService locating was performed by a DBYD Certified Service Locator ",
+ "Credentials" : "\n ATF The Company \n ABN: 0000000 \n ACN: 00000 \n 109 Trafalgar Square  \n London \n Queendland 4125 \n P - (02) 020202 0210 \n E - bookings@company.com.au \n W - www.company.com.au \n\n\n\n ",
+"Title" : "Service Locating Report",
+"General_Notes" : "GENERAL NOTES \n1) Size or material of services, if depicted, are per the DBYD records or if the service is visually exposed to the locator, it may not however be applicable to the entire service. \n2) Depths, if depicted, are from ground surface to somewhere on or within the service based on locating procedure and signal strength, Depth readings are for general information only and should NOT be considered accurate for a design and construction application. \n3) Locations were made only for the services requested. Other services may remain unmarked if they were not part of this request. \n4) All locations are done as per the Dial Before You Dig documentation provided. \n5) All marked services should be potholed to achieve positive identification as per Quality Level A of AS5488.",
+"Footer" : "This plan includes information describing the location of subterranean features which were purported to exist at the time of survey. This information was compiled from a combination of field techniques and available data from cooperating utility authorities. Whilst all care and consideration has been taken in the preparation of this plan or survey our company cannot  guarantee that the plan is without flaw of any kind, therefore our company expressly disclaims all liability for errors or omissions of any kind whatsoever or from any loss, damage or other consequences which may arise from any person relying on anything stated on this plan, in particular, it is recommended that users satisfy themselves as to the location of subterranean features such as utilities which may or may not be shown on this plan by deploying a vacuum excavation services to positively identify services to Quality level A of AS5488.",
+"Map_legend_1" : "- service locating area",
+"Map_legend_2" : "- position and number of the photograph in this report",
+"Map_legend_3" : "Note: this map is indicative only. It does not show the precise position of the service locating area or its boundaries. ",
+"Photo_legend_1" : "ID01 Telstra P35, depth 0.28-0.38 m. Subsurface information quality level B.",
+"Photo_legend_2" : "ID02 a subsurface object, probably - a pvc water property connection, depth 0.5 m. This service was located with GPR. Subsurface information quality level C. Potholing (vacuum excavation) is required for confirmation.",
+"Photo_legend_3" : "ID09 a pvc water property connection, depth 0.15 m. This service has not been located. Potholing (vacuum excavation) is required to locate this service.",
+"email_template_1" : "Service locating report for ",
+"email_template_2" : "Please find attached the service locating report for ",
+"email_template_3" : "Should you have any questions, please contact me.\nKind regards, "
+}
